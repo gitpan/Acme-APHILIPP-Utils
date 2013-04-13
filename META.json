@@ -1,5 +1,5 @@
 {
-   "abstract" : "Utility that sums",
+   "abstract" : "Test module that sums",
    "author" : [
       "AndrÃ© Philipp <aphilipp@cpan.org>"
    ],
@@ -28,7 +28,7 @@
    "provides" : {
       "Acme::APHILIPP::Utils" : {
          "file" : "lib/Acme/APHILIPP/Utils.pm",
-         "version" : "0.01"
+         "version" : "0.02"
       }
    },
    "release_status" : "stable",
@@ -37,5 +37,5 @@
          "http://opensource.org/licenses/artistic-license-2.0.php"
       ]
    },
-   "version" : "0.01"
+   "version" : "0.02"
 }
