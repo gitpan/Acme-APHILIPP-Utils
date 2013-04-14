@@ -8,3 +8,6 @@ Revision history for Acme-APHILIPP-Utils
 
 0.03    Sun Apr 14 15:30:00 2013
         Trying to break distribution by adding Tie::Cycle
+
+0.04    Sun Apr 14 16:10:00 2013
+        Changed the sum function so that it multiplies

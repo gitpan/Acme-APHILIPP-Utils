@@ -16,10 +16,7 @@ name: Acme-APHILIPP-Utils
 provides:
   Acme::APHILIPP::Utils:
     file: lib/Acme/APHILIPP/Utils.pm
-    version: 0.03
-  Tie::Cycle:
-    file: lib/Tie/Cycle.pm
-    version: 0.01
+    version: 0.04
 resources:
   license: http://opensource.org/licenses/artistic-license-2.0.php
-version: 0.03
+version: 0.04

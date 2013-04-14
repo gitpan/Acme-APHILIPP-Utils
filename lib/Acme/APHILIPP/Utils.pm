@@ -13,11 +13,11 @@ Acme::APHILIPP::Utils - Test module that sums
 
 =head1 VERSION
 
-Version 0.03
+Version 0.04
 
 =cut
 
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 
 
 =head1 SYNOPSIS
@@ -45,7 +45,7 @@ that don't look like numbers.
 sub sum {
     my $sum;
     foreach my $num ( grep { /\A-?\d+\.*\d*\z/ } @_ ) {
-        $sum += $num;
+        $sum *= $num;
     }
     $sum;
 }
