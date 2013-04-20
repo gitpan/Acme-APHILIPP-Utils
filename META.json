@@ -28,7 +28,7 @@
    "provides" : {
       "Acme::APHILIPP::Utils" : {
          "file" : "lib/Acme/APHILIPP/Utils.pm",
-         "version" : "0.04"
+         "version" : "0.05"
       }
    },
    "release_status" : "stable",
@@ -37,5 +37,5 @@
          "http://opensource.org/licenses/artistic-license-2.0.php"
       ]
    },
-   "version" : "0.04"
+   "version" : "0.05"
 }

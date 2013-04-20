@@ -11,3 +11,6 @@ Revision history for Acme-APHILIPP-Utils
 
 0.04    Sun Apr 14 16:10:00 2013
         Changed the sum function so that it multiplies
+
+0.05    Sat Apr 20 14:10:00 2013
+        Changed the sum function back to addition
